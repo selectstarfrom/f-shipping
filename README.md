@@ -63,6 +63,5 @@ Application be invoked in 2 modes.
 ## Scope for Improvement(s)
   1. Use Logger for logging instead of System.out.println.
   2. More Unit test cases.
-  2. More Exception handling.
 
 Enjoy Friend-Shipping...........
